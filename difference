@@ -12,6 +12,10 @@ public class difference {
         }else{
             System.out.println("The numbers are not positive.");
         }
+        int difference = Math.abs(a - b);
+        System.out.println("The difference between the two numbers is: " + difference);
+
+        sc.close();
     }
 
     
