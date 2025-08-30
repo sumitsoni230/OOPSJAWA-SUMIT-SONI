@@ -1,6 +1,5 @@
 public class MyAddress {
     public static void main(String[] args) {
-         Printing address using multiple println statements
         System.out.println("24 stanza,");
         System.out.println("Springfield,");
         System.out.println("Illinois,");
