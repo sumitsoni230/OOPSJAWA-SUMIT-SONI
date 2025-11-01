@@ -1,0 +1,8 @@
+import java.io.*;
+class Main {
+    public static void main(String[] args) {
+    String s = "Sumit";
+System.out.println(s.toUpperCase()); 
+System.out.println(s.toLowerCase());
+  }
+}
